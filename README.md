@@ -8,6 +8,8 @@ This project explores poetic style transfer, an NLP task where a language model 
 
 3. Paste the contents of the clipboard in a file and click the 'Run all' button at the top of the file
 
+4. You will need a wandb key in order to train. You can find one here: [wandb key](https://wandb.ai/authorize?ref=models)
+
 # Dependencies and setup steps
 Once you have completed the steps above, it will install all dependecies required to run the code, including: 
 1. transformers
